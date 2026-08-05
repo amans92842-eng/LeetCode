@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amans92842-eng/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amans92842-eng/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amans92842-eng/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/amans92842-eng/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amans92842-eng/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amans92842-eng/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amans92842-eng/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/amans92842-eng/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Greedy
 |  |
 | ------- |
