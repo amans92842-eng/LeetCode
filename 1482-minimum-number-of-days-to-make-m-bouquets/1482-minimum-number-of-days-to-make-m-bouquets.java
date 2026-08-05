@@ -3,7 +3,7 @@ class Solution {
       
         long requiredFlowers = (long) m * k;
 
-        // Impossible to make m bouquets
+       
         if (requiredFlowers > bloomDay.length) {
             return -1;
         }
@@ -11,7 +11,7 @@ class Solution {
         int low = Integer.MAX_VALUE;
         int high = Integer.MIN_VALUE;
 
-        // Find minimum and maximum bloom day
+      
         for (int day : bloomDay) {
             low = Math.min(low, day);
             high = Math.max(high, day);
@@ -21,9 +21,9 @@ class Solution {
             int mid = low + (high - low) / 2;
 
             if (canMake(bloomDay, m, k, mid)) {
-                high = mid - 1;   // Try earlier day
+                high = mid - 1;   
             } else {
-                low = mid + 1;    // Need more days
+                low = mid + 1;   
             }
         }
 
