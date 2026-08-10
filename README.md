@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amans92842-eng/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amans92842-eng/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/amans92842-eng/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2187-minimum-time-to-complete-trips](https://github.com/amans92842-eng/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/amans92842-eng/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amans92842-eng/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/amans92842-eng/LeetCode/tree/master/0035-search-insert-position) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amans92842-eng/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/amans92842-eng/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2187-minimum-time-to-complete-trips](https://github.com/amans92842-eng/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/amans92842-eng/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Greedy
 |  |
