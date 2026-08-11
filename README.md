@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/amans92842-eng/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2187-minimum-time-to-complete-trips](https://github.com/amans92842-eng/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/amans92842-eng/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amans92842-eng/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amans92842-eng/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/amans92842-eng/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amans92842-eng/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amans92842-eng/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amans92842-eng/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amans92842-eng/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/amans92842-eng/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/amans92842-eng/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/amans92842-eng/LeetCode/tree/master/0013-roman-to-integer) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amans92842-eng/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amans92842-eng/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
