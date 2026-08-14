@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amans92842-eng/LeetCode/tree/master/0013-roman-to-integer) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amans92842-eng/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amans92842-eng/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/amans92842-eng/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
@@ -69,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amans92842-eng/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/amans92842-eng/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/amans92842-eng/LeetCode/tree/master/0058-length-of-last-word) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/amans92842-eng/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amans92842-eng/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amans92842-eng/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/amans92842-eng/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting Sort
 |  |
 | ------- |
