@@ -11,7 +11,7 @@ class Solution {
             int index = s.charAt(right) - 'a';
             freq[index]++;
 
-            // If any character occurs more than 2 times
+           
             while (freq[index] > 2) {
                 freq[s.charAt(left) - 'a']--;
                 left++;
