@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amans92842-eng/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/amans92842-eng/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/amans92842-eng/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/amans92842-eng/LeetCode/tree/master/0125-valid-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amans92842-eng/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amans92842-eng/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amans92842-eng/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/amans92842-eng/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amans92842-eng/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amans92842-eng/LeetCode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/amans92842-eng/LeetCode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
