@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amans92842-eng/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amans92842-eng/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/amans92842-eng/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/amans92842-eng/LeetCode/tree/master/0066-plus-one) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amans92842-eng/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amans92842-eng/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/amans92842-eng/LeetCode/tree/master/0704-binary-search) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/amans92842-eng/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/amans92842-eng/LeetCode/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amans92842-eng/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/amans92842-eng/LeetCode/tree/master/1140-stone-game-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amans92842-eng/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
