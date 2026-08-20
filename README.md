@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/amans92842-eng/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/amans92842-eng/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amans92842-eng/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/amans92842-eng/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amans92842-eng/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amans92842-eng/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/amans92842-eng/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
