@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/amans92842-eng/LeetCode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amans92842-eng/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/amans92842-eng/LeetCode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amans92842-eng/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Simulation
 |  |
@@ -184,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/amans92842-eng/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/amans92842-eng/LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/amans92842-eng/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
