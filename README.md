@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/amans92842-eng/LeetCode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amans92842-eng/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amans92842-eng/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0455-assign-cookies](https://github.com/amans92842-eng/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amans92842-eng/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/amans92842-eng/LeetCode/tree/master/0704-binary-search) |
 | [1140-stone-game-ii](https://github.com/amans92842-eng/LeetCode/tree/master/1140-stone-game-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/amans92842-eng/LeetCode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amans92842-eng/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0455-assign-cookies](https://github.com/amans92842-eng/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amans92842-eng/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amans92842-eng/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amans92842-eng/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/amans92842-eng/LeetCode/tree/master/0455-assign-cookies) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amans92842-eng/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 ## Trie
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/amans92842-eng/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/amans92842-eng/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/amans92842-eng/LeetCode/tree/master/0202-happy-number) |
+| [0455-assign-cookies](https://github.com/amans92842-eng/LeetCode/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -217,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/amans92842-eng/LeetCode/tree/master/0202-happy-number) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/amans92842-eng/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
