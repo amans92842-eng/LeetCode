@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amans92842-eng/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/amans92842-eng/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/amans92842-eng/LeetCode/tree/master/0217-contains-duplicate) |
+| [0763-partition-labels](https://github.com/amans92842-eng/LeetCode/tree/master/0763-partition-labels) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amans92842-eng/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amans92842-eng/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amans92842-eng/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/amans92842-eng/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/amans92842-eng/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/amans92842-eng/LeetCode/tree/master/0125-valid-palindrome) |
+| [0763-partition-labels](https://github.com/amans92842-eng/LeetCode/tree/master/0763-partition-labels) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amans92842-eng/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amans92842-eng/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amans92842-eng/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/amans92842-eng/LeetCode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/amans92842-eng/LeetCode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/amans92842-eng/LeetCode/tree/master/0860-lemonade-change) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amans92842-eng/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1710-maximum-units-on-a-truck](https://github.com/amans92842-eng/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/amans92842-eng/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/amans92842-eng/LeetCode/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/amans92842-eng/LeetCode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/amans92842-eng/LeetCode/tree/master/0763-partition-labels) |
 ## Dynamic Programming
 |  |
 | ------- |
