@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/amans92842-eng/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/amans92842-eng/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/amans92842-eng/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/amans92842-eng/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/amans92842-eng/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/amans92842-eng/LeetCode/tree/master/0125-valid-palindrome) |
 | [0763-partition-labels](https://github.com/amans92842-eng/LeetCode/tree/master/0763-partition-labels) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amans92842-eng/LeetCode/tree/master/0022-generate-parentheses) |
 | [0646-maximum-length-of-pair-chain](https://github.com/amans92842-eng/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1140-stone-game-ii](https://github.com/amans92842-eng/LeetCode/tree/master/1140-stone-game-ii) |
 ## Minimax
@@ -248,4 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/amans92842-eng/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/amans92842-eng/LeetCode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/amans92842-eng/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
