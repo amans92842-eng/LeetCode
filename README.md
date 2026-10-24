@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amans92842-eng/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2187-minimum-time-to-complete-trips](https://github.com/amans92842-eng/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/amans92842-eng/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2917-find-the-k-or-of-an-array](https://github.com/amans92842-eng/LeetCode/tree/master/2917-find-the-k-or-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amans92842-eng/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amans92842-eng/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/amans92842-eng/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2917-find-the-k-or-of-an-array](https://github.com/amans92842-eng/LeetCode/tree/master/2917-find-the-k-or-of-an-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amans92842-eng/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/amans92842-eng/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Enumeration
