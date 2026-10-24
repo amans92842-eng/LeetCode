@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/amans92842-eng/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amans92842-eng/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amans92842-eng/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/amans92842-eng/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amans92842-eng/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/amans92842-eng/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amans92842-eng/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amans92842-eng/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amans92842-eng/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amans92842-eng/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/amans92842-eng/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amans92842-eng/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
